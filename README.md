@@ -1,3 +1,5 @@
+![AgentOS Project Health](assets/banner.svg)
+
 # AgentOS Project Health
 
 Auditor de saúde para repositórios: verifica documentação, licença, `.gitignore`, CI e testes, gerando uma nota clara sem dependências externas.
